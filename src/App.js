@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weatherf />
+        <Weatherf defaultCity="Berlin"/>
       <footer>
         Coded by Idalia F. {" "}
         <a href="https://github.com/idaliaFelsmann/weapp-projectt-react"> open-sourced on Github</a>
